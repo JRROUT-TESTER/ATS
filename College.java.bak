@@ -6,7 +6,7 @@ class College{
 		System.out.println("College main method begin ");
 		System.out.println("College main method begin ");
 			
-			Student s1=new Student(101,"Jrr","CJ",37000);
+			Student s1=new Student(101,"Jrr","CJ",3700);
 			Student s2=new Student(101,"Jre","CJ",37000);
 			s1.display();
 
